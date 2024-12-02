@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "description": "High-quality noise-canceling wireless earbuds with a long battery life.",
+        "price": 59.99,
+        "currency": "USD",
+        "stock": 120,
+        "category": "Electronics",
+        "ratings": {
+            "average": 4.5,
+            "reviews": 250
+        }
+    },
+    {
+        "id": 2,
+        "name": "Stainless Steel Water Bottle",
+        "description": "Durable, insulated water bottle that keeps drinks hot or cold for hours.",
+        "price": 25.99,
+        "currency": "USD",
+        "stock": 300,
+        "category": "Home & Kitchen",
+        "ratings": {
+            "average": 4.8,
+            "reviews": 180
+        }
+    },
+    {
+        "id": 3,
+        "name": "Yoga Mat",
+        "description": "Non-slip, eco-friendly yoga mat with carrying strap included.",
+        "price": 19.99,
+        "currency": "USD",
+        "stock": 75,
+        "category": "Fitness",
+        "ratings": {
+            "average": 4.2,
+            "reviews": 95
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with rich sound and waterproof design.",
+        "price": 45.99,
+        "currency": "USD",
+        "stock": 50,
+        "category": "Electronics",
+        "ratings": {
+            "average": 4.7,
+            "reviews": 400
+        }
+    },
+    {
+        "id": 5,
+        "name": "LED Desk Lamp",
+        "description": "Adjustable LED desk lamp with touch controls and USB charging port.",
+        "price": 34.99,
+        "currency": "USD",
+        "stock": 200,
+        "category": "Office Supplies",
+        "ratings": {
+            "average": 4.6,
+            "reviews": 130
+        }
+    }
+]
